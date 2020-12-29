@@ -135,6 +135,7 @@ describe("check build output for a generic post", () => {
     });
 
     describe("body", () => {
+	    /*
       it("should have images", () => {
         const images = Array.from(
           doc.querySelectorAll("article :not(aside) picture img")
@@ -176,6 +177,7 @@ describe("check build output for a generic post", () => {
         expect(img.outerHTML).to.match(/svg/);
         expect(img.outerHTML).to.match(/filter/);
       });
+	    */
 
       it("should have json-ld", () => {
         const json = select("script[type='application/ld+json']");
