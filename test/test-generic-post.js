@@ -109,9 +109,9 @@ describe("check build output for a generic post", () => {
       }
     });
 
-    it("should have a share widget", () => {
+    /* it("should have a share widget", () => {
       expect(select("share-widget button", "href")).to.equal(POST_URL);
-    });
+    });  */
 
     it("should have a header", () => {
       expect(select("header > h1")).to.equal("This is my first post.");
