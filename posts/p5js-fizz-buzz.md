@@ -13,7 +13,7 @@ description: "Pointers to some p5js interesting"
 layout: layouts/post.njk
 ---
 
-### Links and notes from my 3/14/19 talk at [Omaha Ruby & Open Source Meetup](https://www.meetup.com/Omaha-Ruby-Meetup/events/xggmrqyzfbsb/)
+## Links and notes from my 3/14/19 talk at [Omaha Ruby & Open Source Meetup](https://www.meetup.com/Omaha-Ruby-Meetup/events/xggmrqyzfbsb/)
 
 1. https://github.com/TechOmaha/TechOmaha.Dataset 
 2. https://github.com/payne/jQueryBootStrapExaqmple1 simple silly example of consuming the data.  Renders here: http://mattpayne.org/jQueryBootStrapExaqmple1/  I know you can do better!   I challenge you to do better, please!!?!!
@@ -25,10 +25,9 @@ layout: layouts/post.njk
 8. https://editor.p5js.org/payne/sketches/rkYJAgSpX is the Fizz Buzz Computational "art piece" that I talked about.
 9. https://www.manning.com/books/generative-art is one of the books I hope to read someday.
 
-#### Thank you for letting me pitch my excitement to you!
+### Thank you for letting me pitch my excitement to you
 
 
-Note: On Medium.com I published 
-[Programmer's First Computational Art Piece](https://medium.com/@MattPayneOrg/programmers-first-computational-art-piece-a02f3c412606).
+Note: On Medium.com I published [Programmer's First Computational Art Piece](https://medium.com/@MattPayneOrg/programmers-first-computational-art-piece-a02f3c412606).
 
 
