@@ -1,13 +1,13 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "Matt Payne's simple blog",
   "url": "https://mattpayne.org",
   "domain": "mattpayne.org",
-  "description": "Description of the website. Update me.",
+  "description": "Notes about programming etc",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Matt Payne blog posts.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://mattpayne.org"
@@ -17,10 +17,10 @@
     "url": "https://mattpayne.org/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Matt Payne",
+    "twitterHandle": "MattPayneOrg"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Matt Payne"
   }
 }
