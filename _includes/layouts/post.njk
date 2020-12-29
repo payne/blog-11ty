@@ -19,6 +19,15 @@ templateClass: tmpl-post
 {{ content | safe }}
 
 
+{% block p %}
+  Tags: 
+  {% for tag in tags %}
+    {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  {% endfor %}
+{% endblock %}
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
