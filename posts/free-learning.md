@@ -3,7 +3,7 @@ title:  "Free Learning?"
 date:   2016-09-10
 template: "post"
 draft: false
-slug: "/posts/free-learning-notes/"
+slug: "/posts/learning-notes/"
 tags:
   - "fcc"
   - "free"
