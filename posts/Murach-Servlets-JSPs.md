@@ -9,7 +9,6 @@ tags:
   - "java"
 category: java 
 layout: layouts/post.njk
-permalink: "25"
 description: "Murach's approach to classic material."
 ---
 

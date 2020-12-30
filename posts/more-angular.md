@@ -9,7 +9,6 @@ tags:
   - "learning"
 category: angular
 layout: layouts/post.njk
-permalink: "24"
 description: "Practicing more angular and journalling about it."
 ---
 

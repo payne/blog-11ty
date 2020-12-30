@@ -11,7 +11,6 @@ tags:
   - "linux"
 category: lisp
 layout: layouts/post.njk
-permalink: "21"
 description: "Will I ever learn lisp?"
 ---
 

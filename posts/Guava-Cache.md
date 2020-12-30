@@ -9,7 +9,6 @@ tags:
   - "java"
 category: java 
 layout: layouts/post.njk
-permalink: "18"
 description: "Yet another reason to use more Guava"
 ---
 

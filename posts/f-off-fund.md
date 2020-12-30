@@ -9,7 +9,6 @@ tags:
   - "inspiration"
 category: money 
 layout: layouts/post.njk
-permalink: "13"
 description: "Everyone should have a F-Off fund!"
 ---
 

@@ -9,7 +9,6 @@ tags:
   - "tools"
 category: git 
 layout: layouts/post.njk
-permalink: "16"
 description: "git fetch; git rebase origin/master"
 ---
 

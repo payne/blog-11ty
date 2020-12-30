@@ -9,7 +9,6 @@ tags:
   - "tools"
 category: tools 
 layout: layouts/post.njk
-permalink: "29"
 description: "Things I like about TermUX..."
 ---
 

@@ -9,7 +9,6 @@ tags:
   - "AWS"
 category: AWS 
 layout: layouts/post.njk
-permalink: "4"
 description: "Cloud computing is the present and the future.  AWS is leading the way.  Learn it!"
 ---
 

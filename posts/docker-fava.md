@@ -11,7 +11,6 @@ tags:
   - "linux"
 category: linux
 layout: layouts/post.njk
-permalink: "10"
 description: "Learning to put A&A in front of a web app"
 ---
 

@@ -8,7 +8,6 @@ tags:
   - "java"
 category: java 
 layout: layouts/post.njk
-permalink: "8"
 description: "Cartesian Products easily generated :-)"
 ---
 

@@ -9,7 +9,6 @@ tags:
   - "gradle"
 category: java 
 layout: layouts/post.njk
-permalink: "17"
 description: "Gradle introduction from 2013"
 ---
 

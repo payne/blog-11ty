@@ -9,7 +9,6 @@ tags:
   - "linux"
 category: linux 
 layout: layouts/post.njk
-permalink: "20"
 description: "Easy way to make images with text."
 ---
 

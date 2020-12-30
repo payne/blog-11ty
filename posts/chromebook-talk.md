@@ -9,7 +9,6 @@ tags:
   - "linux"
 category: linux
 layout: layouts/post.njk
-permalink: "9"
 description: "3-March-2020 talk about Chromebooks"
 ---
 

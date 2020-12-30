@@ -9,7 +9,6 @@ tags:
   - "learning"
 category: programming 
 layout: layouts/post.njk
-permalink: "1"
 description: "Great advice from FreeCodeCamp.com"
 ---
 

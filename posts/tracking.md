@@ -9,7 +9,6 @@ tags:
   - "tools"
 category: tools 
 layout: layouts/post.njk
-permalink: "30"
 description: "Tracking tools and things to track..."
 ---
 
