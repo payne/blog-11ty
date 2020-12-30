@@ -10,6 +10,7 @@ tags:
   - "games"
 category: learning
 layout: layouts/post.njk
+permalink: "15"
 description: "Games to help learning web programming"
 ---
 

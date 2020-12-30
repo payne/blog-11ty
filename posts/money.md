@@ -9,6 +9,7 @@ tags:
   - "tools"
 category: money 
 layout: layouts/post.njk
+permalink: "23"
 description: "Pointers to money interesting or useful money things"
 ---
 

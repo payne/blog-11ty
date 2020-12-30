@@ -9,6 +9,7 @@ tags:
   - "JavaScript"
 category: tools 
 layout: layouts/post.njk
+permalink: "22"
 description: "Mindmap tool from DRichard.org"
 ---
 

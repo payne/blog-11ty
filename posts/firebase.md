@@ -9,6 +9,7 @@ tags:
   - "web-programming"
 category: firebase
 layout: layouts/post.njk
+permalink: "12"
 description: "Wanting to do more with Firebase.com"
 ---
 

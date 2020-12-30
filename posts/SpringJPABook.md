@@ -10,6 +10,7 @@ tags:
   - "JPA"
 category: "Java"
 layout: layouts/post.njk
+permalink: "27"
 description: "Handy book on JPA with Spring Boot is useful and available on SafariBooksOnline.com"
 ---
 

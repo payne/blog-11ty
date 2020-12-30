@@ -10,6 +10,7 @@ tags:
   - "tools"
 category: p5js 
 description: "Pointers to some p5js interesting"
+permalink: "26"
 layout: layouts/post.njk
 ---
 

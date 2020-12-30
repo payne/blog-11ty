@@ -9,6 +9,7 @@ tags:
   - "java"
 category: Java 
 layout: layouts/post.njk
+permalink: "19"
 description: "HeroKu.com is great!  e.g. It's free to get started.  No credit card needed."
 ---
 

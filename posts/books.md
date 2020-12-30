@@ -9,6 +9,7 @@ tags:
   - "tools"
 category: books 
 layout: layouts/post.njk
+permalink: "7"
 description: "Books I like..."
 ---
 

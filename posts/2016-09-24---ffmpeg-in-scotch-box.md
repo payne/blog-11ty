@@ -9,6 +9,7 @@ tags:
   - "videos"
   - "linux"
 category: linux 
+permalink: "2"
 layout: layouts/post.njk
 description: "A few notes on using ffmpeg to combine videos"
 ---

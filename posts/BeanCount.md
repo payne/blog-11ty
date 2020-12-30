@@ -8,6 +8,7 @@ tags:
   - "accounting"
 category: Finance 
 layout: layouts/post.njk
+permalink: "5"
 description: "PlainTextAccounting.org is amazing.  I'm going to try starting with BeanCount and Fava"
 ---
 

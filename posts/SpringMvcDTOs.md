@@ -9,6 +9,7 @@ tags:
   - "java"
 category: "Java"
 layout: layouts/post.njk
+permalink: "28"
 description: "Using Data Transfer Objects in Spring MVC is a good tradition?"
 ---
 

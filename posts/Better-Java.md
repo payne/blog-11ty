@@ -8,6 +8,7 @@ tags:
   - "java"
 category: java 
 layout: layouts/post.njk
+permalink: "6"
 description: "We don't need to write java like it's 1999."
 ---
 
