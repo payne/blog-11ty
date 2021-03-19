@@ -1,19 +1,20 @@
 ---
-title: "Tweeting Application - Hobby as a SaaS"
-date: "2021-03-11"
+title: "ElasticSearch notes"
+date: "2021-03-18"
 template: "post"
 draft: false
-slug: "/posts/TweetingSaaS"
+slug: "/posts/ElasticSearchFun"
 tags:
-  - "spring-boot"
+  - "ElasticSearch"
   - "java"
-  - "JPA"
-category: "Java"
+  - "GIS"
+category: "GIS"
 layout: layouts/post.njk
-description: "Hobby of creating and running a Software as a Service"
+description: "ElasticSearch is an amazing software ecosystem."
 ---
 
 
-https://github.com/payne/tweeting is work in progress (wip) that will send scheduled reminder tweets.  I'll be updating this post (and maybe making others too) as I make progress on this hobby SaaS.
+A quick way to https://github.com/payne/elasticsearch1
+
 
 
