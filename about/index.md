@@ -8,6 +8,9 @@ eleventyNavigation:
 ---
 
 I'm a computer programmer living in Omaha, NE.   
+* [City Council District](https://dogis.org/citycouncil_lookup/) 3 -- representative Chris Jerram
+* [Douglas County District](https://dogis.org/commissioner_lookup/) 2 -- representative James Cavanaugh
+* [State Senate District](https://nebraskalegislature.gov/senators/senator_find.php) 9 -- representative John Cavanaugh
 
 I'm interested in growing the attributes mentioned in my favorite Bible verse.
 
