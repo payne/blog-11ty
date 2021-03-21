@@ -12,5 +12,5 @@ eleventyNavigation:
 
 1. BitWarden.com
 1. YouNeedaBudget.com
-1. [Mac MINI](https://support.apple.com/kb/sp659?locale=en_US)
+1. [2012 Mac MINI](https://support.apple.com/kb/sp659?locale=en_US)
 1. SafariBooksOnline.com
