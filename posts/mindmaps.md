@@ -17,7 +17,7 @@ description: "Mindmap tool from DRichard.org"
 
 One of the manythings I like about David's software is the json export and import.
 
-My frozen in time build is at [MattPayne.org/mindmaps](http://mattpayne.org/mindmaps/)
+My frozen in time build is in a github page at [https://payne.github.io/mindmaps/](https://payne.github.io/mindmaps/)
 
 What do you like for mind mapping?
 
