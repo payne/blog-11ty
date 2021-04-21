@@ -3,7 +3,7 @@ title: "Books about Computer Programming"
 date: "2020-04-19"
 template: "post"
 draft: false
-slug: "/posts/books/"
+slug: "/posts/programming_books/"
 tags:
   - "books"
   - "tools"
